@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>test_960</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>hookScripts/serverHooks</name>
+			<type>2</type>
+			<location>/Users/romaferre/Documents/runtime-mars1/test_960/serverHooks</location>
+		</link>
+	</linkedResources>
+</projectDescription>
