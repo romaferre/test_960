@@ -4,3 +4,24 @@ Application started (Prod)
 2016-04-25 10:48:19,053 - [INFO] - from play in Connect Thread 
 Listening for HTTP on /0:0:0:0:0:0:0:0:8181
 
+2016-04-25 11:32:13,813 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-25 11:32:13,901 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-25 11:32:25,473 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-25 11:32:25,556 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-25 11:33:57,088 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-25 11:33:57,167 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-25 11:33:59,986 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+Loading file common.js
+
